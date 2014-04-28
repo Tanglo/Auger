@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Auger' target in the 'Auger' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

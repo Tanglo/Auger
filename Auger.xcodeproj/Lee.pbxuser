@@ -1,0 +1,836 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 687}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{15, 268}, {878, 755}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* AugerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 377}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{26, 534}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AugerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1181, 975}}";
+			sepNavSelRange = "{1316, 0}";
+			sepNavVisRange = "{1244, 873}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 9B6BCAB212FA53590007A40A /* Auger */;
+		activeTarget = 8D1107260486CEB800E47090 /* Auger */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Auger */,
+		);
+		breakpoints = (
+			9BCBBF1B137B98070010DC0F /* Auger.m:240 */,
+			9BFE1155137CE4CD00764F7C /* Auger.m:288 */,
+			9BFE115C137CE56D00764F7C /* Auger.m:307 */,
+			9B1653ED138A1924001984BB /* Auger.m:373 */,
+			9B009AF0138A5D5A00ED4249 /* Auger.m:340 */,
+			9B9CA03C138B5E23007A6584 /* Auger.m:469 */,
+			9BAF3AB4138C90F2008925E1 /* Auger.m:751 */,
+			9BAF3ABC138C910B008925E1 /* Auger.m:547 */,
+			9BAF3AC4138C9138008925E1 /* Auger.m:38 */,
+			9BAF3ACC138C917D008925E1 /* Auger.m:501 */,
+			9BAF3AF7138C968A008925E1 /* Auger.m:566 */,
+			9BAF3B00138C9870008925E1 /* Auger.m:614 */,
+			9BF63E6F13932ADC0011B93E /* Auger.m:605 */,
+			9B8C410C1393326B00553212 /* Auger.m:822 */,
+			9B3EE3271393536400CB6ECF /* Auger.m:247 */,
+			9B3EE32E1393539E00CB6ECF /* Auger.m:46 */,
+			9BFBF8D31393591F00DC63AD /* Auger.m:688 */,
+			9BFBF910139363D400DC63AD /* Auger.m:725 */,
+			9BFBF97B1393689900DC63AD /* Auger.m:39 */,
+		);
+		codeSenseManager = 9B6BCAE212FA53780007A40A /* Code sense */;
+		executables = (
+			9B6BCAB212FA53590007A40A /* Auger */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					459,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					990,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330484885;
+			PBXWorkspaceStateSaveDate = 330484885;
+		};
+		perUserProjectItems = {
+			9B08A5121393172E00597D3C /* PBXTextBookmark */ = 9B08A5121393172E00597D3C /* PBXTextBookmark */;
+			9B339061137B873B00A9B1F3 /* PBXTextBookmark */ = 9B339061137B873B00A9B1F3 /* PBXTextBookmark */;
+			9B59029112FF98A700BAA24E /* PBXTextBookmark */ = 9B59029112FF98A700BAA24E /* PBXTextBookmark */;
+			9B9EBE3C13B3054200214584 /* PBXTextBookmark */ = 9B9EBE3C13B3054200214584 /* PBXTextBookmark */;
+			9B9EBEA513B3079D00214584 /* PBXBookmark */ = 9B9EBEA513B3079D00214584 /* PBXBookmark */;
+			9B9EBEA613B3079D00214584 /* PBXTextBookmark */ = 9B9EBEA613B3079D00214584 /* PBXTextBookmark */;
+			9B9EBEA713B3079D00214584 /* PlistBookmark */ = 9B9EBEA713B3079D00214584 /* PlistBookmark */;
+			9B9EBEAC13B307E800214584 /* PBXTextBookmark */ = 9B9EBEAC13B307E800214584 /* PBXTextBookmark */;
+			9B9EBEAD13B307E800214584 /* PBXTextBookmark */ = 9B9EBEAD13B307E800214584 /* PBXTextBookmark */;
+			9B9EBEB413B30D1F00214584 /* PBXTextBookmark */ = 9B9EBEB413B30D1F00214584 /* PBXTextBookmark */;
+			9B9EBEB513B30D1F00214584 /* PBXTextBookmark */ = 9B9EBEB513B30D1F00214584 /* PBXTextBookmark */;
+			9B9EBEC113B314C200214584 /* PBXTextBookmark */ = 9B9EBEC113B314C200214584 /* PBXTextBookmark */;
+			9BAE0D1D1394A16400E0D4D0 /* PBXTextBookmark */ = 9BAE0D1D1394A16400E0D4D0 /* PBXTextBookmark */;
+			9BAE0D1E1394A16400E0D4D0 /* PBXTextBookmark */ = 9BAE0D1E1394A16400E0D4D0 /* PBXTextBookmark */;
+			9BC40A6A138DCAF3004212D9 /* PBXTextBookmark */ = 9BC40A6A138DCAF3004212D9 /* PBXTextBookmark */;
+			9BC40A6B138DCAF3004212D9 /* PBXTextBookmark */ = 9BC40A6B138DCAF3004212D9 /* PBXTextBookmark */;
+			9BCBBF85137BA9650010DC0F /* PBXTextBookmark */ = 9BCBBF85137BA9650010DC0F /* PBXTextBookmark */;
+			9BCBC012137BB2270010DC0F /* PBXTextBookmark */ = 9BCBC012137BB2270010DC0F /* PBXTextBookmark */;
+			9BD5982D12FFB7A700B394CB /* PBXTextBookmark */ = 9BD5982D12FFB7A700B394CB /* PBXTextBookmark */;
+			9BFBF99513936B0400DC63AD /* PBXTextBookmark */ = 9BFBF99513936B0400DC63AD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9B6BCAE112FA53780007A40A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 629}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Auger */ = {
+		activeExec = 0;
+		executables = (
+			9B6BCAB212FA53590007A40A /* Auger */,
+		);
+	};
+	9B009AF0138A5D5A00ED4249 /* Auger.m:340 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-prepareHexFile";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 340;
+		location = Auger;
+		modificationTime = 328431151.3846639;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9B08A5121393172E00597D3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AugerAppDelegate.h */;
+		name = "AugerAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 534;
+		vrLoc = 26;
+	};
+	9B0AD2BB130383DE00028ECD /* LogView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 691}}";
+			sepNavSelRange = "{308, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	9B0AD2BC130383DE00028ECD /* LogView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 702}}";
+			sepNavSelRange = "{1146, 0}";
+			sepNavVisRange = "{0, 1155}";
+		};
+	};
+	9B165313138A0C4D001984BB /* Packet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 452}}";
+			sepNavSelRange = "{334, 0}";
+			sepNavVisRange = "{0, 599}";
+		};
+	};
+	9B165314138A0C4D001984BB /* Packet.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 687}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 594}";
+		};
+	};
+	9B1653ED138A1924001984BB /* Auger.m:373 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-decodeHexLine:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 373;
+		location = Auger;
+		modificationTime = 328431151.384558;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9B339061137B873B00A9B1F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B59025E12FF945D00BAA24E /* comms.h */;
+		name = "comms.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 200;
+	};
+	9B339063137B873B00A9B1F3 /* protos.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = protos.h;
+		path = /Users/Lee/Downloads/comms_linux/protos.h;
+		sourceTree = "<absolute>";
+	};
+	9B3EE3271393536400CB6ECF /* Auger.m:247 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-writeSerial:To:With:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 247;
+		location = Auger;
+		modificationTime = 328431151.385744;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9B3EE32E1393539E00CB6ECF /* Auger.m:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-programADuC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = Auger;
+		modificationTime = 328431151.38585;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9B53B27E138CF473004960CC /* program_aduc.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = program_aduc.c;
+		path = /Users/Lee/Downloads/comms_linux/program_aduc.c;
+		sourceTree = "<absolute>";
+	};
+	9B59025C12FF945D00BAA24E /* comms.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = comms.c;
+		path = /Users/Lee/Downloads/comms_linux/comms.c;
+		sourceTree = "<absolute>";
+	};
+	9B59025E12FF945D00BAA24E /* comms.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = comms.h;
+		path = /Users/Lee/Downloads/comms_linux/comms.h;
+		sourceTree = "<absolute>";
+	};
+	9B59026012FF945D00BAA24E /* init.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = init.c;
+		path = /Users/Lee/Downloads/comms_linux/init.c;
+		sourceTree = "<absolute>";
+	};
+	9B59029112FF98A700BAA24E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	9B6BCAB212FA53590007A40A /* Auger */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Auger;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9B6BCAE112FA53780007A40A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9B6BCAE212FA53780007A40A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9B6BCAF312FA54CD0007A40A /* Auger.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 793}}";
+			sepNavSelRange = "{802, 19}";
+			sepNavVisRange = "{110, 1573}";
+		};
+	};
+	9B6BCAF412FA54CD0007A40A /* Auger.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 11986}}";
+			sepNavSelRange = "{20349, 39}";
+			sepNavVisRange = "{21070, 2785}";
+		};
+	};
+	9B8C410C1393326B00553212 /* Auger.m:822 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-savePreferences";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 822;
+		location = Auger;
+		modificationTime = 328431151.38564;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9B9CA03C138B5E23007A6584 /* Auger.m:469 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-connectToADuCVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 469;
+		location = Auger;
+		modificationTime = 328431151.384771;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9B9EBE3C13B3054200214584 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B165314138A0C4D001984BB /* Packet.m */;
+		name = "Packet.m: 14";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 594;
+		vrLoc = 0;
+	};
+	9B9EBEA513B3079D00214584 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9B9EBE9C13B3074C00214584 /* auger.icns */;
+	};
+	9B9EBEA613B3079D00214584 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	9B9EBEA713B3079D00214584 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Auger-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/Lee/Documents/Auger/Auger-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9B9EBEAC13B307E800214584 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AugerAppDelegate.m */;
+		name = "AugerAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 1412;
+		rType = 0;
+		vrLen = 1730;
+		vrLoc = 386;
+	};
+	9B9EBEAD13B307E800214584 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BCBC037137BB5560010DC0F /* To do.rtf */;
+		name = "To do.rtf: 8";
+		rLen = 0;
+		rLoc = 468;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	9B9EBEB413B30D1F00214584 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		name = "Auger.m: 540";
+		rLen = 39;
+		rLoc = 20349;
+		rType = 0;
+		vrLen = 2833;
+		vrLoc = 21207;
+	};
+	9B9EBEB513B30D1F00214584 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BFBF95B139367AB00DC63AD /* README.rtf */;
+		name = "README.rtf: 21";
+		rLen = 0;
+		rLoc = 1528;
+		rType = 0;
+		vrLen = 2049;
+		vrLoc = 0;
+	};
+	9B9EBEC113B314C200214584 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BFBF95B139367AB00DC63AD /* README.rtf */;
+		name = "README.rtf: 1";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 2782;
+		vrLoc = 0;
+	};
+	9BAE0D1D1394A16400E0D4D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B0AD2BB130383DE00028ECD /* LogView.h */;
+		name = "LogView.h: 16";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	9BAE0D1E1394A16400E0D4D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B0AD2BC130383DE00028ECD /* LogView.m */;
+		name = "LogView.m: 50";
+		rLen = 0;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 1155;
+		vrLoc = 0;
+	};
+	9BAF3AB4138C90F2008925E1 /* Auger.m:751 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-generatePacketAt:To:From:With:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 751;
+		location = Auger;
+		modificationTime = 328431151.384877;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BAF3ABC138C910B008925E1 /* Auger.m:547 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-loadProgramVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 547;
+		location = Auger;
+		modificationTime = 328431151.384987;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BAF3AC4138C9138008925E1 /* Auger.m:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-programADuC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = Auger;
+		modificationTime = 328431151.385094;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BAF3ACC138C917D008925E1 /* Auger.m:501 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-eraseDeviceVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 501;
+		location = Auger;
+		modificationTime = 328431151.385213;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BAF3AF7138C968A008925E1 /* Auger.m:566 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-loadProgramVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 566;
+		location = Auger;
+		modificationTime = 328431151.385318;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BAF3B00138C9870008925E1 /* Auger.m:614 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-loadProgramVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 614;
+		location = Auger;
+		modificationTime = 328431151.385427;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BC40A6A138DCAF3004212D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B53B27E138CF473004960CC /* program_aduc.c */;
+		name = "program_aduc.c: 184";
+		rLen = 79;
+		rLoc = 4895;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 7684;
+	};
+	9BC40A6B138DCAF3004212D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B165313138A0C4D001984BB /* Packet.h */;
+		name = "Packet.h: 21";
+		rLen = 0;
+		rLoc = 334;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+	9BCBBF1B137B98070010DC0F /* Auger.m:240 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-writeSerial:To:With:For:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 240;
+		location = Auger;
+		modificationTime = 328431151.384066;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BCBBF85137BA9650010DC0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B339063137B873B00A9B1F3 /* protos.h */;
+		name = "protos.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1772;
+		vrLoc = 0;
+	};
+	9BCBC012137BB2270010DC0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B59025C12FF945D00BAA24E /* comms.c */;
+		name = "comms.c: 48";
+		rLen = 4;
+		rLoc = 2629;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 4866;
+	};
+	9BCBC037137BB5560010DC0F /* To do.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 702}}";
+			sepNavSelRange = "{468, 0}";
+			sepNavVisRect = "{{0, 0}, {1188, 702}}";
+			sepNavWindowFrame = "{{15, 117}, {718, 906}}";
+		};
+	};
+	9BD5982D12FFB7A700B394CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B59026012FF945D00BAA24E /* init.c */;
+		name = "init.c: 279";
+		rLen = 19;
+		rLoc = 7412;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 6851;
+	};
+	9BF63E6F13932ADC0011B93E /* Auger.m:605 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-loadProgramVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 605;
+		location = Auger;
+		modificationTime = 328431151.385532;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BFBF8D31393591F00DC63AD /* Auger.m:688 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-verifyProgramVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 688;
+		location = Auger;
+		modificationTime = 328431151.385966;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BFBF910139363D400DC63AD /* Auger.m:725 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-runProgramVia:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 725;
+		location = Auger;
+		modificationTime = 328431151.386073;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BFBF95B139367AB00DC63AD /* README.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 702}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRect = "{{0, 0}, {1188, 702}}";
+		};
+	};
+	9BFBF97B1393689900DC63AD /* Auger.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-programADuC:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = Auger;
+		modificationTime = 328431155.848373;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	9BFBF99513936B0400DC63AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B6BCAF312FA54CD0007A40A /* Auger.h */;
+		name = "Auger.h: 42";
+		rLen = 19;
+		rLoc = 802;
+		rType = 0;
+		vrLen = 1573;
+		vrLoc = 110;
+	};
+	9BFE1155137CE4CD00764F7C /* Auger.m:288 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-read:OfSerial:From:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 288;
+		location = Auger;
+		modificationTime = 328431151.384321;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9BFE115C137CE56D00764F7C /* Auger.m:307 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9B6BCAF412FA54CD0007A40A /* Auger.m */;
+		functionName = "-read:OfSerial:From:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 307;
+		location = Auger;
+		modificationTime = 328431151.384445;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+}

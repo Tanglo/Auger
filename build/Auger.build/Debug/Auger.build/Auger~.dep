@@ -1,0 +1,15 @@
+ac6c054278e935290761890cccd124e3 6e50c003ff80289f6977b34726b781cc ffffffffffffffffffffffffffffffff 102 /Users/Lee/Documents/Auger/build/Debug/Auger.app
+d624216036e8c6b7ee0b8f4754063bbf 42d64da5514ad946d4d2dda2cdc4836e ffffffffffffffffffffffffffffffff 49264 /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/MacOS/Auger
+00000000000000000000000000000000 2401c55067f88538342842d8d485ca66 ffffffffffffffffffffffffffffffff 392 /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/README.rtf
+00000000000000000000000000000000 b2d51ca92cdeb1b98fd2cf15b550f93c ffffffffffffffffffffffffffffffff 558 /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/To do.rtf
+000000004de2fe0e0000000000037bd5 7abe344cb0f575b116e6bdd3d4eb9107 ffffffffffffffffffffffffffffffff 44044 /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004d4a1bd9000000000000002d d4f48432e4308e3f90a4ebf7e02e4597 ffffffffffffffffffffffffffffffff 92 /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 3a256b8f3220b732b61778264c256518 ffffffffffffffffffffffffffffffff 8 /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/PkgInfo
+00000000000000000000000000000000 3a256b8f3220b732b61778264c256518 ffffffffffffffffffffffffffffffff 1280 /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Info.plist
+3041d516b2e8b0fbd272ce31cabb3aef 61f0ec830062d9282942d1e97b5c1081 ffffffffffffffffffffffffffffffff 14612 /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Packet.o
+3041d516b2d240dfd272ce31cabb3fbc f628e3c4ba60846bf87c4c43566fba9b ffffffffffffffffffffffffffffffff 16596 /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/LogView.o
+3041d516b2c2d997d272ce31cabbaabf 1e1c19f8c5f45fa2f9d654f78bf61903 ffffffffffffffffffffffffffffffff 70664 /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.o
+3041d516b2faf77dd272ce31cabb2118 aea5b19b2b2b81d13f16b97f3b7339ee ffffffffffffffffffffffffffffffff 30772 /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/AugerAppDelegate.o
+3041d516ffa2ab22d272ce31cabb3a12 c10453529a5809ae2b873154030ba0a0 ffffffffffffffffffffffffffffffff 4976 /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/main.o
+000000000d8eb1b10000000000000168 3041d516ffa2ab22d272ce31cabb3a67 ffffffffffffffffffffffffffffffff 54306576 /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch.gch
+000000000d8eb1b10000000000000168 c607106431a285b47875f4528929005b ffffffffffffffffffffffffffffffff 54212368 /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-gerecodfcbexdegxrtzdgjzikald/Auger_Prefix.pch.gch

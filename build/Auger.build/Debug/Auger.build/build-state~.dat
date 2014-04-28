@@ -1,0 +1,379 @@
+TAuger
+v7
+r0
+t328427646.365097
+cCheck dependencies
+cProcessInfoPlistFile /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Info.plist Auger-Info.plist
+cCopyStringsFile /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Lee/Documents/Auger/English.lproj/MainMenu.xib
+cCpResource "build/Debug/Auger.app/Contents/Resources/To do.rtf" "To do.rtf"
+cCpResource build/Debug/Auger.app/Contents/Resources/README.rtf README.rtf
+cProcessPCH /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch.gch Auger_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/main.o /Users/Lee/Documents/Auger/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/AugerAppDelegate.o /Users/Lee/Documents/Auger/AugerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.o /Users/Lee/Documents/Auger/Auger.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/LogView.o /Users/Lee/Documents/Auger/LogView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Packet.o /Users/Lee/Documents/Auger/Packet.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/MacOS/Auger normal x86_64
+cTouch /Users/Lee/Documents/Auger/build/Debug/Auger.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DD214A600000000000000EE
+t1305613478
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/poll.h
+c000000004A5C14A600000000000003EC
+t1247548582
+s1004
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004A73D651000000000000116C
+t1249105489
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004A73D65400000000000016A2
+t1249105492
+s5794
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/termios.h
+c000000004A5C14A600000000000004D4
+t1247548582
+s1236
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Lee/Documents/Auger/Auger.h
+c000000004DE330D0000000000000067F
+t1306734800
+s1663
+i<Cocoa/Cocoa.h>
+i"LogView.h"
+i<termios.h>
+i<sys/ioctl.h>
+i"Packet.h"
+
+N/Users/Lee/Documents/Auger/Auger.m
+c000000004DE32F9A00000000000080D0
+t1306734490
+s32976
+i"Auger.h"
+
+N/Users/Lee/Documents/Auger/AugerAppDelegate.h
+c000000004DE1F3DE0000000000000230
+t1306653662
+s560
+i<Cocoa/Cocoa.h>
+i"LogView.h"
+i"Auger.h"
+
+N/Users/Lee/Documents/Auger/AugerAppDelegate.m
+c000000004DE31D360000000000000852
+t1306729782
+s2130
+i"AugerAppDelegate.h"
+
+N/Users/Lee/Documents/Auger/Auger_Prefix.pch
+c000000004D4A1BD9000000000000008D
+t1296702425
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/Lee/Documents/Auger/English.lproj/InfoPlist.strings
+c000000004D4A1BD9000000000000002D
+t1296702425
+s45
+
+N/Users/Lee/Documents/Auger/English.lproj/MainMenu.xib
+c000000004DE2FE0E0000000000037BD5
+t1306721806
+s228309
+
+N/Users/Lee/Documents/Auger/LogView.h
+c000000004DD9EF980000000000000115
+t1306128280
+s277
+i<Cocoa/Cocoa.h>
+
+N/Users/Lee/Documents/Auger/LogView.m
+c000000004DE31FBC0000000000000443
+t1306730428
+s1091
+i"LogView.h"
+
+N/Users/Lee/Documents/Auger/Packet.h
+c000000004DDC5B490000000000000257
+t1306286921
+s599
+i<Cocoa/Cocoa.h>
+
+N/Users/Lee/Documents/Auger/Packet.m
+c000000004DDC5B490000000000000252
+t1306286921
+s594
+i"Packet.h"
+
+N/Users/Lee/Documents/Auger/README.rtf
+c000000004DE330AD0000000000000188
+t1306734765
+s392
+
+N/Users/Lee/Documents/Auger/To do.rtf
+c000000004DE330AD000000000000022E
+t1306734765
+s558
+
+N/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.LinkFileList
+c000000004DE330F800000000000001DE
+t1306734840
+s478
+
+N/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.o
+t1306734846
+s70664
+
+N/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/AugerAppDelegate.o
+t1306734846
+s30772
+
+N/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/LogView.o
+t1306734846
+s16596
+
+N/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Packet.o
+t1306734846
+s14612
+
+N/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/main.o
+t1306734846
+s4976
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app
+t1306734846
+s102
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Info.plist
+t1306734840
+s1280
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/MacOS/Auger
+t1306734846
+s49264
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/PkgInfo
+t1306734840
+s8
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306734840
+s92
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306734841
+s44044
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/README.rtf
+t1306734840
+s392
+
+N/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/To do.rtf
+t1306734840
+s558
+
+N/Users/Lee/Documents/Auger/main.m
+c000000004D4A1BD900000000000000F8
+t1296702425
+s248
+i<Cocoa/Cocoa.h>
+
+N/var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-gerecodfcbexdegxrtzdgjzikald/Auger_Prefix.pch.gch
+t1305870036
+s54212368
+
+N/var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch.gch
+t1306734845
+s54306576
+
+NAuger-Info.plist
+c000000004D4A200100000000000003EC
+t1296703489
+s1004
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328427640#328427640#0(0"0(0#1#0"8632766944#0"0#
+
+CCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.o /Users/Lee/Documents/Auger/Auger.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328427646.032738
+e328427646.290759
+r1
+xCompileC
+xbuild/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.o
+x/Users/Lee/Documents/Auger/Auger.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/Lee/Documents/Auger/Auger.m328427646#328427646#0(0"0(0#0#34"/Users/Lee/Documents/Auger/Auger.m8642501248#1280"    cd /Users/Lee/Documents/Auger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-generated-files.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-own-target-headers.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-all-target-headers.hmap -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-project-headers.hmap -F/Users/Lee/Documents/Auger/build/Debug -I/Users/Lee/Documents/Auger/build/Debug/include -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources/x86_64 -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources -include /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch -c /Users/Lee/Documents/Auger/Auger.m -o /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.o0#
+
+CCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/AugerAppDelegate.o /Users/Lee/Documents/Auger/AugerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328427646.031646
+e328427646.197933
+r1
+xCompileC
+xbuild/Auger.build/Debug/Auger.build/Objects-normal/x86_64/AugerAppDelegate.o
+x/Users/Lee/Documents/Auger/AugerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Lee/Documents/Auger/AugerAppDelegate.m328427646#328427646#0(0"0(0#0#45"/Users/Lee/Documents/Auger/AugerAppDelegate.m8644027904#1302"    cd /Users/Lee/Documents/Auger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-generated-files.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-own-target-headers.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-all-target-headers.hmap -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-project-headers.hmap -F/Users/Lee/Documents/Auger/build/Debug -I/Users/Lee/Documents/Auger/build/Debug/include -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources/x86_64 -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources -include /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch -c /Users/Lee/Documents/Auger/AugerAppDelegate.m -o /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/AugerAppDelegate.o0#
+
+CCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/LogView.o /Users/Lee/Documents/Auger/LogView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328427646.034086
+e328427646.190984
+r1
+xCompileC
+xbuild/Auger.build/Debug/Auger.build/Objects-normal/x86_64/LogView.o
+x/Users/Lee/Documents/Auger/LogView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Lee/Documents/Auger/LogView.m328427646#328427646#0(0"0(0#0#36"/Users/Lee/Documents/Auger/LogView.m8642282912#1284"    cd /Users/Lee/Documents/Auger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-generated-files.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-own-target-headers.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-all-target-headers.hmap -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-project-headers.hmap -F/Users/Lee/Documents/Auger/build/Debug -I/Users/Lee/Documents/Auger/build/Debug/include -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources/x86_64 -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources -include /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch -c /Users/Lee/Documents/Auger/LogView.m -o /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/LogView.o0#
+
+CCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Packet.o /Users/Lee/Documents/Auger/Packet.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328427646.191124
+e328427646.332893
+r1
+xCompileC
+xbuild/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Packet.o
+x/Users/Lee/Documents/Auger/Packet.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/Lee/Documents/Auger/Packet.m328427646#328427646#0(0"0(0#0#35"/Users/Lee/Documents/Auger/Packet.m8638397920#1282"    cd /Users/Lee/Documents/Auger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-generated-files.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-own-target-headers.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-all-target-headers.hmap -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-project-headers.hmap -F/Users/Lee/Documents/Auger/build/Debug -I/Users/Lee/Documents/Auger/build/Debug/include -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources/x86_64 -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources -include /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch -c /Users/Lee/Documents/Auger/Packet.m -o /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Packet.o0#
+
+CCompileC build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/main.o /Users/Lee/Documents/Auger/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328427646.030293
+e328427646.225804
+r1
+xCompileC
+xbuild/Auger.build/Debug/Auger.build/Objects-normal/x86_64/main.o
+x/Users/Lee/Documents/Auger/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/Lee/Documents/Auger/main.m328427646#328427646#0(0"0(0#0#33"/Users/Lee/Documents/Auger/main.m8631363424#1278"    cd /Users/Lee/Documents/Auger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-generated-files.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-own-target-headers.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-all-target-headers.hmap -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-project-headers.hmap -F/Users/Lee/Documents/Auger/build/Debug -I/Users/Lee/Documents/Auger/build/Debug/include -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources/x86_64 -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources -include /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch -c /Users/Lee/Documents/Auger/main.m -o /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Lee/Documents/Auger/English.lproj/MainMenu.xib
+s328427640.245268
+e328427641.264720
+r1
+xCompileXIB
+x/Users/Lee/Documents/Auger/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/Lee/Documents/Auger/English.lproj/MainMenu.xib:579: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328427640#328427641#0(140"/* com.apple.ibtool.document.notices *//Users/Lee/Documents/Auger/English.lproj/MainMenu.xib:579: note: This view is clipping its content.1(13@34"This view is clipping its content.328427641#18446744073709551615#0#0(6@53"/Users/Lee/Documents/Auger/English.lproj/MainMenu.xib328414606#579#0#579#0#0"0(0#0#53"/Users/Lee/Documents/Auger/English.lproj/MainMenu.xib8608218816#326"    cd /Users/Lee/Documents/Auger    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Lee/Documents/Auger/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s328427640.244436
+e328427640.558828
+r1
+xCopyStringsFile
+x/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328427640#328427640#0(0"0(0#0#58"/Users/Lee/Documents/Auger/English.lproj/InfoPlist.strings8608523264#339"    cd /Users/Lee/Documents/Auger    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources/English.lproj0#
+
+CCpResource "build/Debug/Auger.app/Contents/Resources/To do.rtf" "To do.rtf"
+s328427640.245799
+e328427640.280619
+r1
+xCpResource
+xbuild/Debug/Auger.app/Contents/Resources/To do.rtf
+xTo do.rtf
+lSLF07#2@14"Copy To do.rtf328427640#328427640#0(0"0(0#0#36"/Users/Lee/Documents/Auger/To do.rtf8607884992#303"    cd /Users/Lee/Documents/Auger    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Lee/Documents/Auger/To do.rtf" /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources0#
+
+CCpResource build/Debug/Auger.app/Contents/Resources/README.rtf README.rtf
+s328427640.246592
+e328427640.280991
+r1
+xCpResource
+xbuild/Debug/Auger.app/Contents/Resources/README.rtf
+xREADME.rtf
+lSLF07#2@15"Copy README.rtf328427640#328427640#0(0"0(0#0#37"/Users/Lee/Documents/Auger/README.rtf8606382912#302"    cd /Users/Lee/Documents/Auger    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Lee/Documents/Auger/README.rtf /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Resources0#
+
+CLd /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/MacOS/Auger normal x86_64
+s328427646.332982
+e328427646.362631
+r1
+xLd
+x/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/MacOS/Auger
+xnormal
+xx86_64
+lSLF07#2@74"Link /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/MacOS/Auger328427646#328427646#0(0"0(0#0#0"8627091008#472"    cd /Users/Lee/Documents/Auger    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Lee/Documents/Auger/build/Debug -F/Users/Lee/Documents/Auger/build/Debug -filelist /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Objects-normal/x86_64/Auger.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/MacOS/Auger0#
+
+CProcessInfoPlistFile /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Info.plist Auger-Info.plist
+s328427640.238953
+e328427640.244298
+r1
+xProcessInfoPlistFile
+x/Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Info.plist
+xAuger-Info.plist
+lSLF07#2@24"Process Auger-Info.plist328427640#328427640#0(0"0(0#0#43"/Users/Lee/Documents/Auger/Auger-Info.plist8619475968#268"    cd /Users/Lee/Documents/Auger    builtin-infoPlistUtility Auger-Info.plist -genpkginfo /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Lee/Documents/Auger/build/Debug/Auger.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-gerecodfcbexdegxrtzdgjzikald/Auger_Prefix.pch.gch Auger_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327562832.357391
+e327562836.591906
+r1
+xProcessPCH
+x/var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-gerecodfcbexdegxrtzdgjzikald/Auger_Prefix.pch.gch
+xAuger_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Auger_Prefix.pch327562832#327562836#0(0"0(0#0#43"/Users/Lee/Documents/Auger/Auger_Prefix.pch7162256562250938368#1198"    cd /Users/Lee/Documents/Auger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-generated-files.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-own-target-headers.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-all-target-headers.hmap -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-project-headers.hmap -F/Users/Lee/Documents/Auger/build/Debug -I/Users/Lee/Documents/Auger/build/Debug/include -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources/x86_64 -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources -c /Users/Lee/Documents/Auger/Auger_Prefix.pch -o /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-gerecodfcbexdegxrtzdgjzikald/Auger_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch.gch Auger_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328427641.264903
+e328427646.030007
+r1
+xProcessPCH
+x/var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch.gch
+xAuger_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Auger_Prefix.pch328427641#328427646#0(0"0(0#0#43"/Users/Lee/Documents/Auger/Auger_Prefix.pch8634710720#1198"    cd /Users/Lee/Documents/Auger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-generated-files.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-own-target-headers.hmap -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-all-target-headers.hmap -iquote /Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/Auger-project-headers.hmap -F/Users/Lee/Documents/Auger/build/Debug -I/Users/Lee/Documents/Auger/build/Debug/include -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources/x86_64 -I/Users/Lee/Documents/Auger/build/Auger.build/Debug/Auger.build/DerivedSources -c /Users/Lee/Documents/Auger/Auger_Prefix.pch -o /var/folders/+9/+9n+yhJxHPGjjNAvmZnwP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Auger_Prefix-goyhjzfmtqxjcyfeytbcoajueosm/Auger_Prefix.pch.gch0#
+
+CTouch /Users/Lee/Documents/Auger/build/Debug/Auger.app
+s328427646.362716
+e328427646.365063
+r1
+xTouch
+x/Users/Lee/Documents/Auger/build/Debug/Auger.app
+lSLF07#2@54"Touch /Users/Lee/Documents/Auger/build/Debug/Auger.app328427646#328427646#0(0"0(0#0#0"8624751520#105"    cd /Users/Lee/Documents/Auger    /usr/bin/touch -c /Users/Lee/Documents/Auger/build/Debug/Auger.app0#
+
