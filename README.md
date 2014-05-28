@@ -16,8 +16,8 @@ Auger will connect to the serial port specified in the serial port path box and 
 Auger will program a compiled intel .hex file onto the ADuC70xx device.  Please note that while ADuC706x devices have not been tested at this stage, their is no reason that they should not work with Auger under most circumstances.
 
 #####Functions:  
-Erase ADuC 	- Pressing this will perform a mass erase of the connected ADuC70xx device.  
-ProgramADuC 	- Pressing this will perform a mass erase of the connected ADuC70xx device and then program the specifed .hex file to the device.  
-Run		- If this box is checked Auger will attempt to run the ADuC70xx device after completing a 'Program ADuC'.  
-Debug		- If this box is checked Auger will output various debug information to the Auger log.  At this stage it is a few things that I have found useful.  If there is anything else you would like included as debug information please contact developer@certaintangle.com and I'll see what I can do.  
-Load to 0x00000000 - If this button is checked Auger and the opening line of the specified .hex file is an 02 or 04 record, Auger will ignore that record.  This is to deal with the fact that hex files may be compile to load to 0x00080000, but the serial downloader treats this address as 0x00000000, i.e. the start of flash.  This box is intended as a simple work around and removes the need to delete the opening line from the .hex file.  If checking this box does not solve your problem then you should compile you .hex file to load to 0x0.  
+_Erase ADuC_ 	- Pressing this will perform a mass erase of the connected ADuC70xx device.  
+_ProgramADuC_ 	- Pressing this will perform a mass erase of the connected ADuC70xx device and then program the specifed .hex file to the device.  
+_Run_		- If this box is checked Auger will attempt to run the ADuC70xx device after completing a 'Program ADuC'.  
+_Debug_		- If this box is checked Auger will output various debug information to the Auger log.  At this stage it is a few things that I have found useful.  If there is anything else you would like included as debug information please contact developer@certaintangle.com and I'll see what I can do.  
+_Load to 0x00000000_ - If this button is checked Auger and the opening line of the specified .hex file is an 02 or 04 record, Auger will ignore that record.  This is to deal with the fact that hex files may be compile to load to 0x00080000, but the serial downloader treats this address as 0x00000000, i.e. the start of flash.  This box is intended as a simple work around and removes the need to delete the opening line from the .hex file.  If checking this box does not solve your problem then you should compile you .hex file to load to 0x0.  
